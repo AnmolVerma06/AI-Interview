@@ -106,7 +106,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID=<your_app_id>
 ```bash
 npm run dev
 ```
-Frontend available at: [http://localhost:3000](http://localhost:3000)
+
 
 ---
 
